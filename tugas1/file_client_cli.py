@@ -96,5 +96,4 @@ if __name__=='__main__':
     remote_list()
     # remote_get('pokijan.jpg')
     # remote_delete('pokijan.jpg')
-    # remote_upload('halo.txt')
-
+    # remote_upload('pokijan.jpg')
